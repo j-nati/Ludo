@@ -1,0 +1,38 @@
+.t {
+  margin: auto;
+  padding:08px;
+  border: 1px solid black;
+  }
+  
+  .ludo {
+    text-align: center;
+    color: crimson;
+  }
+  
+  td {
+    width: 30px;
+    height: 30px;
+    background-color: black;
+  }
+  
+  .table1 {
+    background-color: red;
+  }
+  
+  .table2 {
+    background-color: yellow;
+  }
+  
+  .royal {
+    background-color: blue;
+  }
+  
+  .royal1 {
+    background-color: green;
+  } 
+  
+  .middlebox {
+  background-color:pink;
+  }
+  
+ 
